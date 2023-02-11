@@ -16,7 +16,7 @@ using namespace std;
 CPURep::CPURep()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -27,20 +27,20 @@ CPURep::~CPURep()
 ProcessRep* CPURep::runCPU(ProcessRep* p, int time)
 {   
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 FIFORep* CPURep::getFinishedProcess()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void CPURep::setFinishedProcess(FIFORep* finishedProcess)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
