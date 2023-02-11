@@ -12,9 +12,9 @@ using namespace std;
 
 SchedulerRep::SchedulerRep()
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 SchedulerRep::~SchedulerRep()
 {
@@ -22,56 +22,56 @@ SchedulerRep::~SchedulerRep()
 
 FIFORep* SchedulerRep::getProcessFIFO(int index)
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 void SchedulerRep::setProcessFIFO(FIFORep* fifo, int index)
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 void SchedulerRep::setRunningProcess(ProcessRep* p)
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 ProcessRep* SchedulerRep::getRunningProcess()
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 void SchedulerRep::pushProcess(ProcessRep* p)
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 ProcessRep* SchedulerRep::popProcess()
 {
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 
 bool SchedulerRep::checkTimeSlice()
 {   
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 ProcessRep* SchedulerRep::sendProcessToCPU(ProcessRep* p){
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
 void SchedulerRep::schedule(string type, int id, int arrivalTime, int processTime)
 {   
@@ -89,8 +89,8 @@ void SchedulerRep::schedule(string type, int id, int arrivalTime, int processTim
 
 
     */
-    /*
-        YOUR CODE HEAR
+     /*
+        YOUR CODE HERE
     */
 }
 void SchedulerRep::schedule(ProcessRep* p)
@@ -109,7 +109,7 @@ void SchedulerRep::schedule(ProcessRep* p)
 
 
     */
-/*
-    YOUR CODE HEAR
-*/
+    /*
+        YOUR CODE HERE
+    */
 }
