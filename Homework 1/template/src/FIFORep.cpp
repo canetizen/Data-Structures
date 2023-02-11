@@ -14,16 +14,15 @@ using namespace std;
 
 FIFORep::FIFORep()
 {
-    
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 FIFORep::FIFORep(ProcessRep* head)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -35,28 +34,28 @@ FIFORep::~FIFORep()
 void FIFORep::setHead(ProcessRep* head)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 ProcessRep* FIFORep::getHead()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void FIFORep::setTail(ProcessRep* tail)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 ProcessRep* FIFORep::getTail()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -66,7 +65,7 @@ void FIFORep::queue(ProcessRep* p)
         The function add a process to the tail of the queue.
     */
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -76,7 +75,7 @@ ProcessRep* FIFORep::dequeue()
         The function remove a process from the tail of the queue and returns it.
     */   
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -86,7 +85,7 @@ ProcessRep* FIFORep::searchID(int id)
         The function search a process by id and returns it if it exist otherwise returns NULL.
     */ 
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -96,6 +95,6 @@ void FIFORep::printFIFO()
         The function prints the proceses in the queue starting from Head to tail.
     */
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
