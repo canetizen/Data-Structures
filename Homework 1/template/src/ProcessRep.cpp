@@ -14,7 +14,7 @@ using namespace std;
 ProcessRep::ProcessRep(string processType, int processID, int deliverTime, int processTime)
 {   
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
@@ -25,69 +25,69 @@ ProcessRep::~ProcessRep()
 ProcessRep* ProcessRep::getNext()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void ProcessRep::setNext(ProcessRep *next)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 string ProcessRep::getProcessType()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void ProcessRep::setProcessType(string processType)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 int ProcessRep::getDeliverTime()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void ProcessRep::setDeliverTime(int deliverTime)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 int ProcessRep::getProcessID()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void ProcessRep::setProcessID(int processID)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 int ProcessRep::getProcessTime()
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
 
 void ProcessRep::setProcessTime(int ProcessTime)
 {
     /*
-        YOUR CODE HEAR
+        YOUR CODE HERE
     */
 }
